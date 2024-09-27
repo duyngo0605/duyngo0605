@@ -26,8 +26,7 @@ I am a Vietnamese student who currently following major Software Engineering at 
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://github.com/duyngo0605)
 
 **Database:**<br><br>
-[altext](https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a)
-[![Frameworks](https://skillicons.dev/icons?i=mongodb)](https://github.com/duyngo0605)
+[![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb)](https://github.com/duyngo0605)
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
