@@ -1,16 +1,33 @@
-## Hi there 👋
+        
+<h1 align='center'><samp><strong>Hello World!</strong></samp></h1>
 
-<!--
-**duyngo0605/duyngo0605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+  
+  ✉️  You can contact me at duyngo06052003@gmail.com
+  🚀  I'm currently searching opportunity for .NET Intern position 
+  🤝  I'm open to any chance of learning and collaboration
+</div>
 
-Here are some ideas to get you started:
+<h1 align='left' style='margin: 20px;' ><samp><strong>About Me</strong></samp></h1>
+I am a Vietnamese student who currently following major Software Engineering at VNU-HCM University of Information Technology since 2021.
+<p align='left'>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+<h1 align='left'><samp><strong>What I Use</strong></samp></h1>
+
+**Programming Languages:** <br><br>
+[![Programming Languages](https://skillicons.dev/icons?i=cs,cpp,js,html,css)](https://github.com/duyngo0605)
+
+**Frameworks and Technologies:**<br><br>
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,nodejs,reactjs)](https://github.com/duyngo0605)
+
+**Development Toolset:**<br><br>
+[![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://github.com/duyngo0605)
+**Database:**<br><br>
+[![Frameworks](https://skillicons.dev/icons?i=sqlserver,mongodb)](https://github.com/duyngo0605)
+
+<h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
+
+<a href="#">![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duyngo0605&layout=compact&theme=holi&count_private=true&hide_border=true)</a>
+
