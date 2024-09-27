@@ -4,8 +4,11 @@
 <div align='center'>
   
   ✉️  You can contact me at duyngo06052003@gmail.com
+  <br>
   🚀  I'm currently searching opportunity for .NET Intern position 
+  <br>
   🤝  I'm open to any chance of learning and collaboration
+  <br>
 </div>
 
 <h1 align='left' style='margin: 20px;' ><samp><strong>About Me</strong></samp></h1>
