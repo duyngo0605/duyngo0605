@@ -24,6 +24,7 @@ I am a Vietnamese student who currently following major Software Engineering at 
 
 **Development Toolset:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://github.com/duyngo0605)
+
 **Database:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=sqlserver,mongodb)](https://github.com/duyngo0605)
 
