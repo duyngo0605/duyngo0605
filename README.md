@@ -26,7 +26,8 @@ I am a Vietnamese student who currently following major Software Engineering at 
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://github.com/duyngo0605)
 
 **Database:**<br><br>
-[![Frameworks]![alt text](image.png)(https://skillicons.dev/icons?i=sql,mongodb)](https://github.com/duyngo0605)
+![alt text](image.png)
+[![Frameworks](https://skillicons.dev/icons?i=sql,mongodb)](https://github.com/duyngo0605)
 
 <h1 align='left'><samp><strong>What I Have Achieved</strong></samp></h1>
 
