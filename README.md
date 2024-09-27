@@ -1,7 +1,7 @@
         
-<h1 align='center'><samp><strong>Hello World!</strong></samp></h1>
+<h1 align='center'><samp><strong>Hello, World!</strong></samp></h1>
 
-<div align='center'>
+<div align='left'>
   
   ✉️  You can contact me at duyngo06052003@gmail.com
   <br>
