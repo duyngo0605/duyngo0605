@@ -23,7 +23,7 @@ I am a Vietnamese student who currently following major Software Engineering at 
 [![Programming Languages](https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css)](https://github.com/duyngo0605)
 
 **Frameworks and Technologies:**<br><br>
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,nodejs,reactjs,next)](https://github.com/duyngo0605)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,nodejs,reactjs)](https://github.com/duyngo0605)
 
 **Development Toolset:**<br><br>
 [![Frameworks](https://skillicons.dev/icons?i=visualstudio,vscode,github)](https://github.com/duyngo0605)
