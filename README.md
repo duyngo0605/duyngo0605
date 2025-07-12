@@ -12,7 +12,7 @@
 </div>
 
 <h1 align='left' style='margin: 20px;' ><samp><strong>About Me</strong></samp></h1>
-I am a Vietnamese student who currently following major Software Engineering at VNU-HCM University of Information Technology since 2021.
+I am a Vietnamese student who completed bachelor program in major Software Engineering at VNU-HCM University of Information Technology from 2021 to 2025.
 <p align='left'>
 
 </p>
