@@ -5,7 +5,7 @@
   
   ✉️  You can contact me at duyngo06052003@gmail.com
   <br>
-  🚀  I'm currently searching for Front-end or Back-end Intership Opportunity.
+  🚀  I'm currently searching for Front-end Developer Position.
   <br>
   🤝  I'm open to any chance of learning and collaboration
   <br>
